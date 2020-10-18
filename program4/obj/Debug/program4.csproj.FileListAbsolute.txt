@@ -1,0 +1,7 @@
+C:\Users\lesni\Desktop\PO\nauka\wlasne\program4\obj\Debug\program4.csprojAssemblyReference.cache
+C:\Users\lesni\Desktop\PO\nauka\wlasne\program4\obj\Debug\program4.csproj.CoreCompileInputs.cache
+C:\Users\lesni\Desktop\PO\nauka\wlasne\program4\bin\Debug\program4.exe.config
+C:\Users\lesni\Desktop\PO\nauka\wlasne\program4\bin\Debug\program4.exe
+C:\Users\lesni\Desktop\PO\nauka\wlasne\program4\bin\Debug\program4.pdb
+C:\Users\lesni\Desktop\PO\nauka\wlasne\program4\obj\Debug\program4.exe
+C:\Users\lesni\Desktop\PO\nauka\wlasne\program4\obj\Debug\program4.pdb

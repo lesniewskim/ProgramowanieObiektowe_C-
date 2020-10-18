@@ -1,0 +1,6 @@
+C:\Users\lesni\Desktop\PO\nauka\wlasne\zadanie2.6\bin\Debug\zadanie2.6.exe.config
+C:\Users\lesni\Desktop\PO\nauka\wlasne\zadanie2.6\bin\Debug\zadanie2.6.exe
+C:\Users\lesni\Desktop\PO\nauka\wlasne\zadanie2.6\bin\Debug\zadanie2.6.pdb
+C:\Users\lesni\Desktop\PO\nauka\wlasne\zadanie2.6\obj\Debug\zadanie2.6.csproj.CoreCompileInputs.cache
+C:\Users\lesni\Desktop\PO\nauka\wlasne\zadanie2.6\obj\Debug\zadanie2.6.exe
+C:\Users\lesni\Desktop\PO\nauka\wlasne\zadanie2.6\obj\Debug\zadanie2.6.pdb

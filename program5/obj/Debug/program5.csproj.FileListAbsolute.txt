@@ -1,0 +1,6 @@
+C:\Users\lesni\Desktop\PO\nauka\wlasne\program5\bin\Debug\program5.exe.config
+C:\Users\lesni\Desktop\PO\nauka\wlasne\program5\bin\Debug\program5.exe
+C:\Users\lesni\Desktop\PO\nauka\wlasne\program5\bin\Debug\program5.pdb
+C:\Users\lesni\Desktop\PO\nauka\wlasne\program5\obj\Debug\program5.csproj.CoreCompileInputs.cache
+C:\Users\lesni\Desktop\PO\nauka\wlasne\program5\obj\Debug\program5.exe
+C:\Users\lesni\Desktop\PO\nauka\wlasne\program5\obj\Debug\program5.pdb

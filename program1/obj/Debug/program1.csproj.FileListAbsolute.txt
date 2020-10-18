@@ -1,0 +1,7 @@
+C:\Users\lesni\Desktop\PO\nauka\wlasne\program1\bin\Debug\program1.exe.config
+C:\Users\lesni\Desktop\PO\nauka\wlasne\program1\bin\Debug\program1.exe
+C:\Users\lesni\Desktop\PO\nauka\wlasne\program1\bin\Debug\program1.pdb
+C:\Users\lesni\Desktop\PO\nauka\wlasne\program1\obj\Debug\program1.csprojAssemblyReference.cache
+C:\Users\lesni\Desktop\PO\nauka\wlasne\program1\obj\Debug\program1.csproj.CoreCompileInputs.cache
+C:\Users\lesni\Desktop\PO\nauka\wlasne\program1\obj\Debug\program1.exe
+C:\Users\lesni\Desktop\PO\nauka\wlasne\program1\obj\Debug\program1.pdb

@@ -1,0 +1,6 @@
+C:\Users\lesni\Desktop\PO\nauka\wlasne\przyklad2.17\bin\Debug\przyklad2.17.exe.config
+C:\Users\lesni\Desktop\PO\nauka\wlasne\przyklad2.17\bin\Debug\przyklad2.17.exe
+C:\Users\lesni\Desktop\PO\nauka\wlasne\przyklad2.17\bin\Debug\przyklad2.17.pdb
+C:\Users\lesni\Desktop\PO\nauka\wlasne\przyklad2.17\obj\Debug\przyklad2.17.csproj.CoreCompileInputs.cache
+C:\Users\lesni\Desktop\PO\nauka\wlasne\przyklad2.17\obj\Debug\przyklad2.17.exe
+C:\Users\lesni\Desktop\PO\nauka\wlasne\przyklad2.17\obj\Debug\przyklad2.17.pdb

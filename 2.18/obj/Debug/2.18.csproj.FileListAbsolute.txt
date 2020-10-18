@@ -1,0 +1,6 @@
+C:\Users\lesni\Desktop\PO\nauka\wlasne\2.18\bin\Debug\2.18.exe.config
+C:\Users\lesni\Desktop\PO\nauka\wlasne\2.18\bin\Debug\2.18.exe
+C:\Users\lesni\Desktop\PO\nauka\wlasne\2.18\bin\Debug\2.18.pdb
+C:\Users\lesni\Desktop\PO\nauka\wlasne\2.18\obj\Debug\2.18.csproj.CoreCompileInputs.cache
+C:\Users\lesni\Desktop\PO\nauka\wlasne\2.18\obj\Debug\2.18.exe
+C:\Users\lesni\Desktop\PO\nauka\wlasne\2.18\obj\Debug\2.18.pdb
