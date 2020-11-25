@@ -1,0 +1,31 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Zadanie_4._1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Podaj ile miejsc ma mieć tablica");
+            int x = int.Parse(Console.ReadLine());
+            int[] tab = new int[x];
+            int i = 0;
+            while (i < x)
+            {
+                Console.WriteLine("Podaj wartość {0} miejsca w tablicy", i + 1);
+                tab[i] = int.Parse(Console.ReadLine());
+                i++;
+            }
+                for (var y = 0; y < tab.Length; y++)
+                {
+
+                    Console.WriteLine("Wartość {0} miejsca w tablicy, wynosi {1}", y + 1, tab[y]);
+                }
+            Console.ReadKey();
+        }
+    }
+}
