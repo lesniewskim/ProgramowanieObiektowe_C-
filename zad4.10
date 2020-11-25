@@ -1,0 +1,70 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Zadanie_4._10
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Wprowadz date w formacie DD-MM-RRRR");
+            string x = Console.ReadLine();
+            char[] co = new char[2];
+
+            for (int i = 0; i < 2; i++)
+            {
+                co[i] = x[i + 3];
+            }
+            string b = new string(co);
+            int c = int.Parse(b);
+
+            switch (c)
+            {
+                case 1:
+                    Console.WriteLine("styczen");
+                    break;
+                case 2:
+                    Console.WriteLine("luty");
+                    break;
+                case 3:
+                    Console.WriteLine("marzec");
+                    break;
+                case 4:
+                    Console.WriteLine("kwiecien");
+                    break;
+                case 5:
+                    Console.WriteLine("maj");
+                    break;
+                case 6:
+                    Console.WriteLine("czerwiec");
+                    break;
+                case 7:
+                    Console.WriteLine("lipiec");
+                    break;
+                case 8:
+                    Console.WriteLine("sierpien");
+                    break;
+                case 9:
+                    Console.WriteLine("wrzesien");
+                    break;
+                case 10:
+                    Console.WriteLine("pazdziernik");
+                    break;
+                case 11:
+                    Console.WriteLine("listopad");
+                    break;
+                case 12:
+                    Console.WriteLine("grudzien");
+                    break;
+
+                default:
+                    Console.WriteLine("Niepoprawna data");
+                    break;
+            }
+            Console.ReadKey();
+        }
+    }
+}
